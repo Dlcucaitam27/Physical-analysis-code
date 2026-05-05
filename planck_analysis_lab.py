@@ -9,8 +9,8 @@ y genera gráficas en PDF (U0_vs_nu.pdf, residuos.pdf).
 
 Autor: [David Leonardo Cucaita Mariño] - Universidad Distrital Francisco José de Caldas
 Fecha: [01/05/2026]
-Repositorio: https://github.com/...
-DOI: https://doi.org/...
+Repositorio: https://github.com/Dlcucaitam27/Physical-analysis-code
+DOI: https://doi.org/10.5281/zenodo.20034565
 """
 
 import numpy as np
