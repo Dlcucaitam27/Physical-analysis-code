@@ -19,7 +19,7 @@ from matplotlib import rcParams
 
 # ==================== CONFIGURACIÓN DE ESTILO ====================
 rcParams.update({
-    "text.usetex": False,          # Cambiar a True si se tiene LaTeX instalado
+    "text.usetex": False,         
     "font.family": "serif",
     "font.size": 11,
     "axes.labelsize": 12,
